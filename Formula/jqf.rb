@@ -1,8 +1,8 @@
 class Jqf < Formula
-  desc "jq's language, for every format"
+  desc "Jq's language, for every format"
   homepage "https://github.com/filip-41/jqf"
-  url "https://github.com/filip-41/jqf/archive/refs/tags/v0.1.0-alpha.1.tar.gz"
-  sha256 "bb561446cff216afff0187241164c7be5914a743c8a9714cdd7da4d2ac4d7321"
+  url "https://github.com/filip-41/jqf/archive/refs/tags/v0.1.0-alpha.2.tar.gz"
+  sha256 "624502373ba76fac4cb33d84d5a03883d1b85872cc6fe4091983bf638176dfed"
   license "MIT"
   head "https://github.com/filip-41/jqf.git", branch: "main"
 
